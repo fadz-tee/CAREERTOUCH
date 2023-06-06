@@ -1014,6 +1014,11 @@ section {
     margin: 15px;
   }
 
+  .testimonials .section-title h2{
+   font-size: 8px;
+   
+   
+ }
   .testimonials .testimonial-item .testimonial-img {
     position: static;
     left: auto;
