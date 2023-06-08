@@ -1110,7 +1110,7 @@ section {
 }
 
 .cource-details-tabs .nav-link:hover {
-  color: #5fcf80;
+  color: #1e64f0;
 }
 
 .cource-details-tabs .nav-link.active {
@@ -1145,7 +1145,7 @@ section {
 
   .cource-details-tabs .nav-link.active {
     color: #fff;
-    background: #5fcf80;
+    background: #1e64f0;
   }
 }
 
